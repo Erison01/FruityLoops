@@ -1,0 +1,22 @@
+.container{
+    width: 70%;
+    margin: 0 auto;
+}
+
+h1{
+    color: lightcoral;
+}
+.table{
+    border: 12px solid lightcoral;
+    width: 500px;
+    height: 200px;
+    border-collapse: separate;
+    border-spacing: 0;
+}
+th,td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid lightcoral;
+}
+
+
